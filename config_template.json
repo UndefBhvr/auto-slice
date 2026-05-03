@@ -1,0 +1,17 @@
+{
+  "llm": {
+    "base_url": "https://api.deepseek.com",
+    "api_key": "your-api-key-here",
+    "model": "deepseek-v4-pro",
+    "temperature": 0.7
+  },
+  "mcp_server": {
+    "host": "127.0.0.1",
+    "port": 8765
+  },
+  "transcription": {
+    "model": "large-v3",
+    "language": "zh",
+    "hotwords": []
+  }
+}
